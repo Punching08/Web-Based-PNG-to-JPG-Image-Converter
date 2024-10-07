@@ -1,0 +1,13 @@
+Initialize a Node.js Project:
+Open the terminal and create a project folder.
+Run the following commands to initialize a new Node.js project:
+
+mkdir png-to-jpg-converter
+cd png-to-jpg-converter
+npm init -y
+
+
+Install Required Packages:
+Install express, multer for file uploads, and sharp for image conversion.
+
+npm install express multer sharp
